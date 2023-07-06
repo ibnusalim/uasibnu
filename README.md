@@ -1,4 +1,7 @@
 # uas
+NAMA : IBNU SALIM
+NPM : 213510156
+KELAS 4B
 
 ## Project setup
 ```
